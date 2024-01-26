@@ -4,7 +4,7 @@ import Tut from './Tut'
 function App() {
   return (
     <>
-    <h1>REACT</h1>
+    <h1>REACT tutorial</h1>
     <Tut/>
     </>
   );
