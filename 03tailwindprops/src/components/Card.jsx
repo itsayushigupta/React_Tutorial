@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Card({username, cardTxt="description"}) {
-    console.log(username);
+    
   return (
     <div className="relative h-[400px] w-[300px] rounded-md mb-4">
         <img
